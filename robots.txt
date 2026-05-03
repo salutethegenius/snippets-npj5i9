@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salutethegenius.github.io/snippets-npj5i9/sitemap.xml
